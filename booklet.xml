@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <booklet>
     <page>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/001[1].jpg</image>
+        <text>I have edited this file.</text>
+    </page>
+        <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page1.png</image>
         <text>Let's start with the fuselage.</text>
     </page>
