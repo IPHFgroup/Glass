@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <booklet>
     <page>
-        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/robot1.jpg</image>
-        <text>Its a robot so it is!</text>
-    </page>   
-        <page>
-        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/plane1.jpg</image>
-        <text>Its a plane</text>
-    </page> 
-    <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/001[1].jpg</image>
         <text>I have edited this file.</text>
     </page>
