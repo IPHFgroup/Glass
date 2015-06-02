@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <booklet>
-<<<<<<< HEAD
-<page>
-        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/robot1.jpeg</image>
+    <page>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/robot1.jpg</image>
         <text>Its a robot so it is!</text>
     </page>    
-<page>
-=======
     <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/001[1].jpg</image>
         <text>I have edited this file.</text>
     </page>
-        <page>
->>>>>>> origin/master
+    <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page1.png</image>
         <text>Let's start with the fuselage.</text>
     </page>
@@ -60,4 +56,4 @@
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page12.png</image>
         <text>Add the floats and you're done. That's awesome!'.</text>
     </page>
-    </booklet>
+</booklet>
