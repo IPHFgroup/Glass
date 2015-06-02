@@ -3,7 +3,11 @@
     <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/robot1.jpg</image>
         <text>Its a robot so it is!</text>
-    </page>    
+    </page>   
+        <page>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/flower1.jpg</image>
+        <text>Its a flower</text>
+    </page> 
     <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/001[1].jpg</image>
         <text>I have edited this file.</text>
